@@ -7,8 +7,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: My online hub of creative endeavor.
-datePublished: '2016-03-31T01:38:47.801Z'
-dateModified: '2016-03-31T01:38:42.699Z'
+datePublished: '2016-03-31T01:40:32.051Z'
+dateModified: '2016-03-31T01:40:20.347Z'
 title: Seth Horan - educator. recording artist. performer.
 author: []
 sourcePath: _posts/2016-03-31-seth-horan-educator-recording-artist-performer.md
